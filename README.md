@@ -1,1 +1,1 @@
-# SPA
+# webpack_starter
